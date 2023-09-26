@@ -22,7 +22,7 @@ module.exports = {
             url: 'https://youtube-mp3-download1.p.rapidapi.com/dl',
             params: {id: vidId},
             headers: {
-                'X-RapidAPI-Key': '676e2da289mshb581f453879883bp1a4366jsna8f021422a32',
+                'X-RapidAPI-Key': '',
                 'X-RapidAPI-Host': 'youtube-mp3-download1.p.rapidapi.com'
             }
         };
