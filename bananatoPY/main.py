@@ -335,4 +335,4 @@ async def sq(ctx, numsq, sqnum):
 
 
 
-client.run("NzAyOTc2NzU2Nzk3MTQ1MTE4.GRF7Fv.EUyK9VBMCV6bSBO2ccy33-uanU4jmQKPPuBEuw")
+client.run("TOKEN")
